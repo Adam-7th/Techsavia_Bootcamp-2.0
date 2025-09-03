@@ -1,131 +1,114 @@
-# My Techsavia Data Analytics Bootcamp Journal – Excel Track
+# My Techsavia Data Analytics Bootcamp – Excel Track
 
 **Name:** Henok Tariku  
 **Bootcamp:** Techsavia Data Analytics Bootcamp 2.0  
 **Track:** Excel  
 **Start Date:** September 3, 2025  
-**Time Zone:** UTC+3
+**Time Zone:** UTC+3  
 
-## Progress Tracker (Top-to-Bottom – Latest to Earliest DataCamp Courses)
+
+## 📊 Overview
+
+This repository contains my personal journal, progress tracker, and practice exercises from the **Techsavia Data Analytics Bootcamp – Excel Track**.  
+All notes, exercises, and reflections are **my own work**, summarized from my learning on **DataCamp**. No copyrighted DataCamp content has been copied directly.
+
+
+## 🗂️ Progress Tracker (Top-to-Bottom, Latest to Earliest)
 
 | Week | Topic | Duration | Date Completed | Status | Completed ✅ |
 |------|-------|---------|----------------|--------|-------------|
-| 4 | Case Study: Analyzing Customer Churn in Excel | 1 hr | Sep 26, 2025 | In Progress | [ ] |
+| 4 | Case Study: Analyzing Customer Churn | 1 hr | Sep 26, 2025 | In Progress | [ ] |
 | 3 | Understanding Excel | 1 hr | Sep 20, 2025 | In Progress | [ ] |
 | 3 | Data Visualization in Excel | 3 hrs | Sep 20, 2025 | In Progress | [ ] |
 | 3 | Data Validation in Excel | 2 hrs | Sep 20, 2025 | In Progress | [ ] |
 | 3 | Financial Modeling in Excel | 3 hrs | Sep 20, 2025 | In Progress | [ ] |
-| 2 | Introduction to Power Query in Excel | 3 hrs | Sep 13, 2025 | In Progress | [ ] |
-| 2 | Power Pivot in Excel | 3 hrs | Sep 13, 2025 | In Progress | [ ] |
-| 2 | Intermediate Power Query in Excel | 3 hrs | Sep 13, 2025 | In Progress | [ ] |
-| 1 | Data Preparation in Excel | 3 hrs | Sep 6, 2025 | In Progress | [ ] |
-| 1 | Data Analysis in Excel | 3 hrs | Sep 6, 2025 | In Progress | [ ] |
-| 1 | Advanced Excel Functions | 2 hrs | Sep 6, 2025 | In Progress | [ ] |
+| 2 | Introduction to Power Query | 3 hrs | Sep 13, 2025 | In Progress | [ ] |
+| 2 | Power Pivot | 3 hrs | Sep 13, 2025 | In Progress | [ ] |
+| 2 | Intermediate Power Query | 3 hrs | Sep 13, 2025 | In Progress | [ ] |
 | 1 | Introduction to Excel | 3 hrs | Sep 4, 2025 | In Progress | [ ] |
+| 1 | Data Preparation | 3 hrs | Sep 6, 2025 | In Progress | [ ] |
+| 1 | Data Analysis | 3 hrs | Sep 6, 2025 | In Progress | [ ] |
+| 1 | Advanced Excel Functions | 2 hrs | Sep 6, 2025 | In Progress | [ ] |
 
-> **Tip:** Replace `[ ]` with `[x]` once completed.
+> Replace `[ ]` with `[x]` once completed.
 
-## Weekly Notes & Reflections
+
+## 📝 Weekly Notes & Reflections
 
 ### Week 4 – Case Study (Sep 26)
-**Goals:**  
-- Apply all skills to a real-world dataset  
-- Analyze customer churn  
-
-**Topics & Dates:**  
-- Case Study: Analyzing Customer Churn in Excel – Sep 26, 2025  
-
-**Notes / Reflections:**  
+**Goals:** Apply all skills to a real dataset, analyze customer churn.  
+**Reflections:**  
 - Combined Power Query, PivotTables, and charts for analysis  
-- Generated actionable insights  
+- Generated actionable insights for customer retention strategies  
 
 **Practice Tasks Completed:**  
-- Completed full churn analysis and summary report  
+- Full churn analysis  
+- Summary dashboard in Excel  
 
 
 ### Week 3 – Advanced Analysis & Visualization (Sep 20)
-**Goals:**  
-- Understand deeper Excel features  
-- Create charts and dashboards  
-- Validate and model data  
-
-**Topics & Dates:**  
-- Understanding Excel – Sep 20, 2025  
-- Data Visualization in Excel – Sep 20, 2025  
-- Data Validation in Excel – Sep 20, 2025  
-- Financial Modeling in Excel – Sep 20, 2025  
-
-**Notes / Reflections:**  
-- Created charts to visualize trends  
-- Applied data validation rules  
-- Built simple financial model  
+**Goals:** Create dashboards, validate and model data.  
+**Reflections:**  
+- Built charts to visualize trends  
+- Applied data validation rules for accuracy  
+- Developed basic financial models  
 
 **Practice Tasks Completed:**  
-- Generated line/bar charts, applied conditional formatting  
+- Line and bar charts  
+- Conditional formatting  
+- Simple profit/loss model  
 
 
 ### Week 2 – Power Query & Power Pivot (Sep 13)
-**Goals:**  
-- Learn Power Query basics  
-- Explore Power Pivot functionality  
-- Clean and combine datasets efficiently  
-
-**Topics & Dates:**  
-- Introduction to Power Query – Sep 13, 2025  
-- Power Pivot – Sep 13, 2025  
-- Intermediate Power Query – Sep 13, 2025  
-
-**Notes / Reflections:**  
-- Learned to merge multiple tables and transform data  
-- Power Pivot useful for summarizing large datasets  
+**Goals:** Learn data cleaning and summarization techniques.  
+**Reflections:**  
+- Power Query helped clean large datasets efficiently  
+- Power Pivot useful for summarizing multiple tables  
 
 **Practice Tasks Completed:**  
-- Connected tables, created PivotTables, filtered data  
+- Connected multiple tables  
+- Created PivotTables and basic aggregations  
 
 
 ### Week 1 – Foundations (Sep 4–6)
-**Goals:**  
-- Learn Excel basics and core functions  
-- Understand data preparation  
-- Practice simple analysis  
-
-**Topics & Dates:**  
-- Introduction to Excel – Sep 4, 2025  
-- Data Preparation in Excel – Sep 6, 2025  
-- Data Analysis in Excel – Sep 6, 2025  
-- Advanced Excel Functions – Sep 6, 2025  
-
-**Notes / Reflections:**  
-- Learned basic formulas like SUM, AVERAGE, IF  
-- Practiced preparing datasets and cleaning data  
-- Need more practice on shortcuts and formatting  
+**Goals:** Learn Excel basics and core formulas, practice data preparation.  
+**Reflections:**  
+- Learned SUM, AVERAGE, IF, and basic formula logic  
+- Gained confidence in preparing datasets for analysis  
 
 **Practice Tasks Completed:**  
-- Completed sample exercises for Week 1  
+- Sample exercises on data preparation and analysis  
+- Applied basic Excel formulas  
 
 
-## Overall Bootcamp Notes
+## 💡 Skills Learned
 
-**Project Submissions:**  
-- Case Study: Customer Churn – Sep 26, 2025  
-
-**Skills Learned:**  
 - Excel basics, formulas, and functions  
 - Data preparation and cleaning with Power Query  
-- PivotTables and Power Pivot for summarization  
-- Data visualization, validation, and financial modeling  
+- PivotTables and Power Pivot summarization  
+- Data visualization and dashboard creation  
+- Data validation and financial modeling  
 
-**Next Steps:**  
+
+## 🚀 Next Steps
+
 - Continue SQL, Python, and Power BI modules  
 - Build additional portfolio projects  
-- Regularly practice Excel exercises  
-- Share projects online for feedback  
+- Regular practice of Excel exercises  
+- Share progress and projects for feedback  
 
-**Personal Reflections:**  
-- Progressing steadily and understanding Excel more deeply  
-- Need to focus on efficiency and shortcuts  
-- Excited to apply these skills in real projects  
 
----
+## ⚠️ Legal Notice
 
-*This journal is for personal tracking and reflection. All notes, progress, and experiences are my own.*
+This repository contains **my own work only**. It summarizes concepts learned in the Techsavia Bootcamp and on DataCamp. No direct copying of DataCamp lessons, images, or materials has been made. This is safe to share publicly for learning and portfolio purposes.  
+
+## 📂 Repository Contents
+
+- `README.md` – This overview and journal  
+- `Week_1/` – Notes, exercises, screenshots for Week 1  
+- `Week_2/` – Notes, exercises, screenshots for Week 2  
+- `Week_3/` – Notes, exercises, screenshots for Week 3  
+- `Week_4/` – Case study files and outputs  
+
+
+*This journal is for personal tracking, reflection, and showcasing my progress in the Techsavia Bootcamp.*
