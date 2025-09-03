@@ -25,10 +25,10 @@ All notes, exercises, and reflections are **my own work**, summarized from my le
 | 2 | Introduction to Power Query | 3 hrs | Sep 13, 2025 | In Progress | [ ] |
 | 2 | Power Pivot | 3 hrs | Sep 13, 2025 | In Progress | [ ] |
 | 2 | Intermediate Power Query | 3 hrs | Sep 13, 2025 | In Progress | [ ] |
-| 1 | Introduction to Excel | 3 hrs | Sep 4, 2025 | In Progress | [ ] |
 | 1 | Data Preparation | 3 hrs | Sep 6, 2025 | In Progress | [ ] |
 | 1 | Data Analysis | 3 hrs | Sep 6, 2025 | In Progress | [ ] |
 | 1 | Advanced Excel Functions | 2 hrs | Sep 6, 2025 | In Progress | [ ] |
+| 1 | Introduction to Excel | 3 hrs | Sep 4, 2025 | In Progress | [ ] |
 
 > Replace `[ ]` with `[x]` once completed.
 
