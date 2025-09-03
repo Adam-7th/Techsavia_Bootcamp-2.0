@@ -17,34 +17,44 @@ All notes, exercises, and reflections are **my own work**, summarized from my le
 
 | Week | Topic | Duration | Date Completed | Status | Completed ✅ |
 |------|-------|---------|----------------|--------|-------------|
-| 4 | Case Study: Analyzing Customer Churn | 1 hr | Sep 26, 2025 | In Progress | [ ] |
-| 3 | Understanding Excel | 1 hr | Sep 20, 2025 | In Progress | [ ] |
-| 3 | Data Visualization in Excel | 3 hrs | Sep 20, 2025 | In Progress | [ ] |
-| 3 | Data Validation in Excel | 2 hrs | Sep 20, 2025 | In Progress | [ ] |
-| 3 | Financial Modeling in Excel | 3 hrs | Sep 20, 2025 | In Progress | [ ] |
-| 2 | Introduction to Power Query | 3 hrs | Sep 13, 2025 | In Progress | [ ] |
-| 2 | Power Pivot | 3 hrs | Sep 13, 2025 | In Progress | [ ] |
-| 2 | Intermediate Power Query | 3 hrs | Sep 13, 2025 | In Progress | [ ] |
-| 1 | Data Preparation | 3 hrs | Sep 6, 2025 | In Progress | [ ] |
-| 1 | Data Analysis | 3 hrs | Sep 6, 2025 | In Progress | [ ] |
-| 1 | Advanced Excel Functions | 2 hrs | Sep 6, 2025 | In Progress | [ ] |
 | 1 | Introduction to Excel | 3 hrs | Sep 4, 2025 | In Progress | [ ] |
+| 1 | Advanced Excel Functions | 2 hrs | Sep 6, 2025 | In Progress | [ ] |
+| 1 | Data Analysis | 3 hrs | Sep 6, 2025 | In Progress | [ ] |
+| 1 | Data Preparation | 3 hrs | Sep 6, 2025 | In Progress | [ ] |
+| 2 | Intermediate Power Query | 3 hrs | Sep 13, 2025 | In Progress | [ ] |
+| 2 | Power Pivot | 3 hrs | Sep 13, 2025 | In Progress | [ ] |
+| 2 | Introduction to Power Query | 3 hrs | Sep 13, 2025 | In Progress | [ ] |
+| 3 | Financial Modeling in Excel | 3 hrs | Sep 20, 2025 | In Progress | [ ] |
+| 3 | Data Validation in Excel | 2 hrs | Sep 20, 2025 | In Progress | [ ] |
+| 3 | Data Visualization in Excel | 3 hrs | Sep 20, 2025 | In Progress | [ ] |
+| 3 | Understanding Excel | 1 hr | Sep 20, 2025 | In Progress | [ ] |
+| 4 | Case Study: Analyzing Customer Churn | 1 hr | Sep 26, 2025 | In Progress | [ ] |
 
 > Replace `[ ]` with `[x]` once completed.
 
 
 ## 📝 Weekly Notes & Reflections
 
-### Week 4 – Case Study (Sep 26)
-**Goals:** Apply all skills to a real dataset, analyze customer churn.  
+### Week 1 – Foundations (Sep 4–6)
+**Goals:** Learn Excel basics and core formulas, practice data preparation.  
 **Reflections:**  
-- Combined Power Query, PivotTables, and charts for analysis  
-- Generated actionable insights for customer retention strategies  
+- Learned SUM, AVERAGE, IF, and basic formula logic  
+- Gained confidence in preparing datasets for analysis  
 
 **Practice Tasks Completed:**  
-- Full churn analysis  
-- Summary dashboard in Excel  
+- Sample exercises on data preparation and analysis  
+- Applied basic Excel formulas  
 
+
+### Week 2 – Power Query & Power Pivot (Sep 13)
+**Goals:** Learn data cleaning and summarization techniques.  
+**Reflections:**  
+- Power Query helped clean large datasets efficiently  
+- Power Pivot useful for summarizing multiple tables  
+
+**Practice Tasks Completed:**  
+- Connected multiple tables  
+- Created PivotTables and basic aggregations  
 
 ### Week 3 – Advanced Analysis & Visualization (Sep 20)
 **Goals:** Create dashboards, validate and model data.  
@@ -58,27 +68,15 @@ All notes, exercises, and reflections are **my own work**, summarized from my le
 - Conditional formatting  
 - Simple profit/loss model  
 
-
-### Week 2 – Power Query & Power Pivot (Sep 13)
-**Goals:** Learn data cleaning and summarization techniques.  
+### Week 4 – Case Study (Sep 26)
+**Goals:** Apply all skills to a real dataset, analyze customer churn.  
 **Reflections:**  
-- Power Query helped clean large datasets efficiently  
-- Power Pivot useful for summarizing multiple tables  
+- Combined Power Query, PivotTables, and charts for analysis  
+- Generated actionable insights for customer retention strategies  
 
 **Practice Tasks Completed:**  
-- Connected multiple tables  
-- Created PivotTables and basic aggregations  
-
-
-### Week 1 – Foundations (Sep 4–6)
-**Goals:** Learn Excel basics and core formulas, practice data preparation.  
-**Reflections:**  
-- Learned SUM, AVERAGE, IF, and basic formula logic  
-- Gained confidence in preparing datasets for analysis  
-
-**Practice Tasks Completed:**  
-- Sample exercises on data preparation and analysis  
-- Applied basic Excel formulas  
+- Full churn analysis  
+- Summary dashboard in Excel  
 
 
 ## 💡 Skills Learned
