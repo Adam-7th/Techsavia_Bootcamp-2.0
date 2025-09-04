@@ -1,0 +1,1 @@
+In this chapter, you’ll learn how to navigate Excel and understand how best to work with tables. You will cover topics such as navigating the grid layout, importing data, manipulating data with tables, and creating basic formulas.
